@@ -17,8 +17,8 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-F24E1E?style=for-the-badge&logo=Photoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-F24E1E?style=for-the-badge&logo=Illustrator&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-F24E1E?style=for-the-badge&logo=photoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-F24E1E?style=for-the-badge&logo=illustrator&logoColor=white)
 
 ## About Me
 
