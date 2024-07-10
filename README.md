@@ -32,7 +32,7 @@ With a background in Finance/Economics and ongoing experience running my own fun
 ## Current Projects
 
 -  Currently developing my own website, coming soon!
--  I am about to start on an exciting 10-week internship with Datacom, where I will be developing frontend for NZ Creative and gaining valuable industry experience.
+-  I am about to start an exciting 10-week internship with Datacom, where I will be developing frontend for NZ Creative and gaining valuable industry experience.
 
 ## Skills
 
