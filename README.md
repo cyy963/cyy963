@@ -31,7 +31,7 @@ With a background in Finance/Economics and ongoing experience running my own fun
 -  Currently developing my own website, coming soon!
 -  I am about to start on an exciting 10-week internship with Datacom, where I will be developing frontend for NZ Creative and gaining valuable industry experience.
 
-## Skills and Technologies
+## Skills
 
 - **Languages**: JavaScript(ES6+), Python, C#, PineScript
 - **Frontend**: React, HTML, CSS
