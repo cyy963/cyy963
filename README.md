@@ -35,7 +35,7 @@ With a background in Finance/Economics and ongoing experience running my own fun
 
 ## Skills
 
-- **Languages**: JavaScript(ES6+), Python, C#, PineScript
+- **Languages**: JavaScript(ES6+), Python, PineScript
 - **Frontend**: React, HTML, CSS, Tailwind
 - **Backend**: Node.js, Express.js, Rest APIs, SQL, MongoDB
 - **DevOps**: CI/CD, Azure, Docker, Unit Testing, Agile Methodologies
