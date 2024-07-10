@@ -9,7 +9,7 @@
 ## About Me
 
 Hi there! I’m a creative Full Stack Developer with an eye for detail and design. I have an intrinsic drive to optimize products and processes, which translates into developing efficient software and great UX/UI.
-With a background in Finance/Economics and ongoing experience running my own fund, I stay well-informed about global market conditions and latest technologies.
+With a background in Finance/Economics, I stay well-informed about global market conditions and latest technologies.
 <br/>Feel free to connect with me on socials!
 
 ## Current Projects
