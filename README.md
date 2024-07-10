@@ -19,6 +19,7 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-F24E1E?style=for-the-badge&logo=photoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-F24E1E?style=for-the-badge&logo=illustrator&logoColor=white)
+![Pinescript](https://img.shields.io/badge/Pinescript-00c50d?style=for-the-badge&logo=illustrator&logoColor=white)
 
 ## About Me
 
@@ -32,7 +33,7 @@ With a background in Finance/Economics and ongoing experience running my own fun
 
 ## Skills and Technologies
 
-- **Languages**: JavaScript(ES6+), Python, C#
+- **Languages**: JavaScript(ES6+), Python, C#, PineScript
 - **Frontend**: React, HTML, CSS
 - **Backend**: Node.js, Express.js, Rest APIs, SQL, MongoDB
 - **DevOps**: CI/CD, Azure, Docker, Unit Testing, Agile Methodologies
