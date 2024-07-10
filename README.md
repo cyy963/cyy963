@@ -38,15 +38,16 @@ With a background in Finance/Economics and ongoing experience running my own fun
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Rest APIs](https://img.shields.io/badge/Rest-APIs-4479A1?style=for-the-badge&logo=APIs&logoColor=white)
 
-### DevOps
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+### Development Practices
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI/CD-2496ED?style=for-the-badge&logo=CI/CD&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps-2496ED?style=for-the-badge&logo=devops&logoColor=white)
 ![Unit Testing](https://img.shields.io/badge/Unit-Testing-2496ED?style=for-the-badge&logo=unit-testing&logoColor=white)
 ![Agile Methodologies](https://img.shields.io/badge/Agile-Methodologies-2496ED?style=for-the-badge&logo=agile-methodologies&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 
 ### Tools and Platforms
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Google Generative AI](https://img.shields.io/badge/Google%20Generative%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
