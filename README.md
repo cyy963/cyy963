@@ -1,4 +1,4 @@
-![Animated Banner](https://github.com/cyy963/cyy963/blob/main/git%20banner.png)
+<!---![Animated Banner](https://github.com/cyy963/cyy963/blob/main/git%20banner.png)--->
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
