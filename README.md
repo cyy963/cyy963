@@ -46,7 +46,7 @@ With a background in Finance/Economics and ongoing experience running my own fun
 ![Agile Methodologies](https://img.shields.io/badge/Agile-Methodologies-2496ED?style=for-the-badge&logo=agile-methodologies&logoColor=white)
 
 
-### Tools and Platforms
+### Tools & Platforms
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Google Generative AI](https://img.shields.io/badge/Google%20Generative%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
