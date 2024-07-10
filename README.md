@@ -20,6 +20,7 @@
 ![Photoshop](https://img.shields.io/badge/Photoshop-003cc5?style=for-the-badge&logo=photoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-F24E1E?style=for-the-badge&logo=illustrator&logoColor=white)
 ![Pinescript](https://img.shields.io/badge/Pinescript-00c50d?style=for-the-badge&logo=illustrator&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-0079c5?style=for-the-badge&logo=tailwind&logoColor=white)
 
 ## About Me
 
@@ -34,7 +35,7 @@ With a background in Finance/Economics and ongoing experience running my own fun
 ## Skills
 
 - **Languages**: JavaScript(ES6+), Python, C#, PineScript
-- **Frontend**: React, HTML, CSS
+- **Frontend**: React, HTML, CSS, Tailwind
 - **Backend**: Node.js, Express.js, Rest APIs, SQL, MongoDB
 - **DevOps**: CI/CD, Azure, Docker, Unit Testing, Agile Methodologies
 - **Tools and Platforms**: Microsoft Azure, GitHub, Postman, Jira, Figma, Canva, Photoshop, Illustrator, Lightroom
