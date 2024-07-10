@@ -1,16 +1,48 @@
-## Hi there 👋
+![Animated Banner](https://github.com/cyy963/cyy963/blob/main/git%20banner.png)
 
-<!--
-**cyy963/cyy963** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Google Generative AI](https://img.shields.io/badge/Google%20Generative%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-F24E1E?style=for-the-badge&logo=Photoshop&logoColor=white)
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi there! I’m a creative Full Stack Developer with an eye for detail and design. I have an intrinsic drive to optimize products and processes, which translates into developing efficient software and great UX/UI.
+With a background in Finance/Economics and ongoing experience running my own fund, I stay well-informed about global market conditions and latest technologies.
+
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cyrus-wen/)
+
+## Current Projects
+
+-  Currently developing my own website, coming Soon!
+-  I am about to start on an exciting 10-week internship with Datacom, where I will be developing frontend for NZ Creative and gaining valuable industry experience.
+
+## Skills and Technologies
+
+- **Languages**: JavaScript(ES6+), Python, C#
+- **Frontend**: React, HTML, CSS
+- **Backend**: Node.js, Express.js, Rest APIs, SQL, MongoDB
+- **DevOps**: CI/CD, Azure, Docker, Unit Testing, Agile Methodologies
+- **Tools and Platforms**: Microsoft Azure, GitHub, Postman, Jira, Figma, Canva, Photoshop, Illustrator, Lightroom
+
+## Currently Learning
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Three-js](https://img.shields.io/badge/Three-js-232F3E?style=for-the-badge&logo=amazon-Three-js&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-4285F4?style=for-the-badge&logo=amazon-Framer-Motion&logoColor=white)
