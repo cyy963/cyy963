@@ -15,8 +15,9 @@ With a background in Finance/Economics, I stay well-informed about global market
 ## Current Projects
 
 -  Currently developing my own website, coming soon!
+-  Apple website case study - Three.js, Framer Motion, Tailwind, React
 -  I am about to start an exciting 10-week internship with Datacom, where I will be developing for NZ Creative and gaining valuable industry experience.
--  Websites for Falcan Overland and Oasis Aero 
+-  Websites for Falcan Overland and Oasis Aero - Wix, React
 
 ## Skills
 
