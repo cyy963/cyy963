@@ -22,6 +22,7 @@ With a background in Finance/Economics, I stay well-informed about global market
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-56595c?style=for-the-badge&logo=python)
 ![Pinescript](https://img.shields.io/badge/Pinescript-00c50d?style=for-the-badge&logo=illustrator&logoColor=white)
 
@@ -62,6 +63,5 @@ With a background in Finance/Economics, I stay well-informed about global market
 
 ## Currently Learning
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Three-js](https://img.shields.io/badge/Three-js-232F3E?style=for-the-badge&logo=amazon-Three-js&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-4285F4?style=for-the-badge&logo=amazon-Framer-Motion&logoColor=white)
